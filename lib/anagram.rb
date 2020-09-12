@@ -5,8 +5,8 @@ class Anagram
     @word = word
   end
 
-  def match(argument)
-    argument = []
+  def match()
+
   end
 
 
