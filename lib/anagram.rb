@@ -6,7 +6,7 @@ class Anagram
   end
 
   def match(argument)
-  end 
+  end
 
 
 
