@@ -11,6 +11,7 @@ class Anagram
       word
     end
   end
+end 
 
 
 
